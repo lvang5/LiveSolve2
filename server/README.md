@@ -1,0 +1,13 @@
+-[] UI - jquery needs to be brought in and setup
+ -[] 2 inputs for the numbers
+ -[] buttons for each operator & = 
+ -[] clear inputs
+ -[] show calculation
+ -[] set up my server
+-[] send inputs to the server
+-[] POST route on server
+-[] do the calculation
+-[] do that calculation
+-[] save that calculation to history
+-[] get the history from the server
+-[] GET route from server
